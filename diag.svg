@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" 
+     viewBox="0 0 669.77 408.56">
+
+<defs>
+<style>
+.tipthemewhite {
+    margin: 3em 0 0 1.1em;
+ }
+
+#fo-piers ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: 0.5em;
+ }
+
+#fo-piers ul li {
+    margin:0.2em 0;
+ }
+
+#fo-piers ul img {
+    margin-right: 0.5em;
+    vertical-align: middle;
+ }
+
+#fo-piers ul a {
+    vertical-align: middle;
+    color: #000;
+    text-decoration: none;
+ }
+#system-piers {
+    cursor: pointer;
+ }
+.hide {
+    display: none;
+ }
+
+
+/****  hover is no good for this ***
+
+#fo, #fo-piers ul {
+    display: none;
+  }
+
+#system-piers:hover  #fo,
+#system-piers:hover  #fo-piers ul{
+    display:block;
+ }
+
+***********************************/
+
+
+.cls-1{fill:#f1e6cb;}
+.cls-2{fill:#e2ebf2;stroke:#565656;}
+.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}
+.cls-3{fill:#a2bdd9;stroke:#121212;}
+.cls-4{fill:none;stroke:#231f20;}
+.cls-5,.cls-6{font-size:8.34px;font-family:Arial-BoldMT, Arial;font-weight:700;}
+.cls-5{fill:#121212;}
+.cls-6{fill:#231f20;}
+.cls-7{letter-spacing:-0.02em;}
+.cls-8{letter-spacing:-0.06em;}
+.cls-9{letter-spacing:-0.06em;}
+.cls-10{letter-spacing:0em;}
+</style>
+</defs>
+<rect class="cls-1" width="669.77" height="408.56"/>
+<rect class="cls-2" x="43.54" y="14" width="94.01" height="54.19"/>
+<rect class="cls-2" x="451.35" y="165.71" width="70.5" height="50.67"/>
+<polyline class="cls-4" points="249 99.07 70.53 99.07 70.53 105.11"/>
+<polyline class="cls-4" points="249 365.58 31.26 365.58 31.26 142.49 43.54 142.49"/>
+<polyline class="cls-4" points="70.53 311.03 70.53 348.09 249 348.09"/>
+<line class="cls-4" x1="70.53" y1="189.86" x2="70.53" y2="270.41"/>
+<polyline class="cls-4" points="594.29 29.21 275.99 29.21 275.99 66.29"/>
+<polyline class="cls-4" points="594.29 42.6 316.28 42.6 316.28 176.19 302.98 176.19"/>
+<polyline class="cls-4" points="249 255.43 132.9 255.43 132.9 157.21 97.52 157.21"/>
+<polyline class="cls-4" points="594.29 101.77 373.95 101.77 373.95 250.98 302.98 250.98"/>
+<polyline class="cls-4" points="594.29 250.98 404.09 250.98 404.09 189.87 302.98 189.87"/>
+<line class="cls-4" x1="302.98" y1="264.37" x2="594.29" y2="264.37"/>
+<line class="cls-4" x1="97.52" y1="290.72" x2="594.29" y2="290.72"/>
+<line class="cls-4" x1="275.99" y1="275.74" x2="275.99" y2="335.71"/>
+<line class="cls-4" x1="302.98" y1="356.02" x2="352.53" y2="356.02"/>
+<polyline class="cls-4" points="621.28 313.47 621.28 390.88 275.99 390.88 275.99 376.33"/>
+
+<rect class="cls-3" x="48.2" y="21.94" width="84.71" height="15.88"/>
+<text class="cls-5" transform="translate(60.28 32.75)">SCIP-IWF INC II</text>
+
+<rect class="cls-3" x="48.2" y="43.71" width="84.71" height="15.88"/>
+<text class="cls-5" transform="translate(60.28 54.24)">SCIP-IWF INC III</text>
+
+<rect class="cls-3" x="43.54" y="105.11" width="53.98" height="84.75"/>
+<text class="cls-6" transform="translate(59.68 147.49)">ANCC</text>
+
+<g id="system-piers">
+	<rect class="cls-3" x="43.54" y="270.41" width="53.98" height="40.62"/>
+	<text class="cls-6" transform="translate(58.33 293.86)">PIERS</text>
+</g>
+
+<rect id="fo" class="hide" x="110" y="255" width="80" height="70" fill="#f0f0f0" stroke="#000" strok-width="0.4"/>
+<foreignObject id="fo-piers" x="115" y="262" width="75" height="65">
+   <ul id="list-group" class="hide" xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="#report7"><img src="http://lukesspotcom.fatcow.com/images/picasa.png" width="12"/>System Data</a></li>
+	  <li><a href="#fid14"><img src="http://lukesspotcom.fatcow.com/images/picasa.png" width="12"/>FID</a></li>
+	  <li><a href="#popup3"><img src="http://lukesspotcom.fatcow.com/images/picasa.png" width="12"/>Locations</a></li>
+	  <li><a href="#mbse14"><img src="http://lukesspotcom.fatcow.com/images/picasa.png" width="12"/>MBSE</a></li>
+	</ul>
+</foreignObject>
+
+<rect class="cls-3" x="249" y="235.12" width="53.98" height="40.62"/>
+<text class="cls-6" transform="translate(257.31 258.42)">EHF/NMT</text>
+
+<rect class="cls-3" x="249" y="335.71" width="53.98" height="40.62"/>
+<text class="cls-6" transform="translate(254.08 358.33)">EXTERNAL</text>
+
+<rect class="cls-3" x="352.53" y="335.71" width="53.98" height="40.62"/>
+<text class="cls-6" transform="translate(368.1 358.33)">RTMS</text>
+
+<rect class="cls-3" x="594.29" y="223.04" width="53.98" height="90.43"/>
+<text class="cls-6" transform="translate(603.06 271.05)">COMSEC</text>
+
+<rect class="cls-3" x="594.29" y="149.24" width="53.98" height="40.62"/>
+<text class="cls-6" transform="translate(599.59 173.04)">SSR-1/JTT</text>
+
+<rect class="cls-3" x="594.29" y="89.23" width="53.98" height="40.62"/>
+<text class="cls-6" transform="translate(609.36 111.72)">ADMS</text>
+
+<rect class="cls-3" x="594.29" y="15.71" width="53.98" height="40.62"/>
+<text class="cls-6" transform="translate(596.64 38.6)">GPS TIMING</text>
+
+<rect class="cls-3" x="235.58" y="163.35" width="67.4" height="40.62"/>
+<text class="cls-6" transform="translate(244.09 186.42)">NMT/NTWAN</text>
+
+<rect class="cls-3" x="249" y="66.29" width="53.98" height="40.62"/>
+<text class="cls-6" transform="translate(261.21 89.39)">NTWAN</text>
+
+<rect class="cls-3" x="456.89" y="173.04" width="59.41" height="15.88"/>
+<text class="cls-6" transform="translate(466.05 183.66)">CND NIPR</text>
+
+<rect class="cls-3" x="456.89" y="194.81" width="59.41" height="15.88"/>
+<text class="cls-6" transform="translate(466.05 206.32)">CND SIPR</text>
+
+<line class="cls-4" x1="97.52" y1="116.65" x2="594.29" y2="116.65"/>
+<polyline class="cls-4" points="594.29 169.55 581.93 169.55 581.93 129.85 97.52 129.85"/>
+<polyline class="cls-4" points="594.29 237.58 567.43 237.58 567.43 142.49 97.52 142.49"/>
+<polyline class="cls-4" points="249 86.6 209.3 86.6 209.3 51.65 132.9 51.65"/>
+<polyline class="cls-4" points="249 74.51 221.02 74.51 221.02 29.21 132.9 29.21"/>
+
+<defs>
+<script>
+function deactivate() {
+ systems.forEach (
+  (system) => system.classList.replace( 'cls-3','inactive-rect' )
+  );
+}
+   var test = true;
+      document.getElementById( 'system-piers' ).addEventListener( 'click', 
+         function() {
+            if ( test === true ) {
+                 document.getElementById( 'list-group' ).classList.remove( 'hide' );
+                 document.getElementById( 'fo' ).classList.remove( 'hide' );
+                 test = false;
+              }
+            else {
+                 document.getElementById( 'list-group' ).classList.add( 'hide' ); 
+                 document.getElementById( 'fo' ).classList.add( 'hide' );
+                 test = true;
+              }
+         }, false );
+</script>
+</defs>
+</svg>
